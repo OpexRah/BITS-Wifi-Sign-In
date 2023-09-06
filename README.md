@@ -5,7 +5,7 @@ Like the title says, this application automatically logs you in for WiFi access 
 The application is written in python with very basic usage of ``pyautogui``, a library that can take control of your screen and perform clicks and key presses. 
 
 ## Installation
-Clone this repo. ALl dependencies are included for the app to run. Refer to the next section for usage guide.
+Clone this repo. All dependencies are included for the app to run. Refer to the next section for usage guide.
 
 ## How to use
 Open the ``data.json`` file and fill in the credentials for ``USER`` and ``PASS``. ``BROWSER_TASKBAR_LOCATION`` is the position of your preferred browser in your taskbar. For example: If you have your Chrome browser in the second position in your taskbar (second from the left), put the value of ``2``. Now just click ``BITS Auto Wifi.exe`` and relax. You will automatically be signed in.
