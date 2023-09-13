@@ -8,7 +8,7 @@ The application is written in python with very basic usage of ``pyautogui``, a l
 Clone this repo. All dependencies are included for the app to run. Refer to the next section for usage guide.
 
 ## How to use
-Open the ``data.json`` file and fill in the credentials for ``USER`` and ``PASS``. ``BROWSER_TASKBAR_LOCATION`` is the position of your preferred browser in your taskbar. For example: If you have your Chrome browser in the second position in your taskbar (second from the left), put the value of ``2``. Now just click ``BITS Auto Wifi.exe`` and relax. You will automatically be signed in.
+Open the ``data.json`` file and fill in the credentials for ``USER`` and ``PASS``. ``BROWSER_TASKBAR_LOCATION`` is the position of your preferred browser in your taskbar. For example: If you have your Chrome browser in the second position in your taskbar (second from the left), put the value of ``2``. Now just click ``BITS Wifi Tool.exe`` and relax. You will automatically be signed in.
 
 ## Too Much Work To Click The .exe File?? Read this!
 Now, you might be thinking that you have to put even more effort to click the .exe file everytime you want to login. I have a solution for that too!
